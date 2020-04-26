@@ -1,0 +1,24 @@
+{
+  "name": "2020.1_p2_codsystems",
+  "version": "1.0.0",
+  "description": "Projeto Integrador 2020\r Equipe:\r Ademir Junior\r Anderson Rodrigo\r Felipe Alves\r Gabriel da Silva\r Karyl Chesman",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/admJR/2020.1_P2_CodSystems.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/admJR/2020.1_P2_CodSystems/issues"
+  },
+  "homepage": "https://github.com/admJR/2020.1_P2_CodSystems#readme",
+  "dependencies": {
+    "bootstrap": "^4.0.0-beta.2",
+    "jquery": "^3.5.0",
+    "popper.js": "^1.16.1"
+  }
+}
